@@ -1,0 +1,31 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "cardImg": "",
+            "lessonNumber": "43 lesson",
+            "rating": "4.8",
+            "titleLess": "Education Program Title",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$87.00"
+        },
+        {
+            "id": 2,
+            "cardImg": "",
+            "lessonNumber": "50 lesson",
+            "rating": "4.8",
+            "titleLess": "Education Program Title",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$90.00"
+        },
+        {
+            "id": 3,
+            "cardImg": "",
+            "lessonNumber": "77 lesson",
+            "rating": "4.8",
+            "titleLess": "Education Program Title",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$75.00"
+        }
+    ]
+}
