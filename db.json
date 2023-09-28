@@ -2,30 +2,356 @@
     "courses": [
         {
             "id": 1,
-            "cardImg": "",
+            "cardImg": "https://i0.wp.com/www.additudemag.com/wp-content/uploads/2021/09/GettyImages-1044168372.jpg",
             "lessonNumber": "43 lesson",
             "rating": "4.8",
-            "titleLess": "Education Program Title",
+            "titleLess": "Math Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$87.00"
         },
         {
             "id": 2,
-            "cardImg": "",
+            "cardImg": "https://www.vec.ca/wp-content/uploads/2019/03/English-Language-Level-System.jpg",
             "lessonNumber": "50 lesson",
             "rating": "4.8",
-            "titleLess": "Education Program Title",
+            "titleLess": "English Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$90.00"
         },
         {
             "id": 3,
-            "cardImg": "",
+            "cardImg": "https://www.training.com.au/wp-content/uploads/science-stem-feature.png",
             "lessonNumber": "77 lesson",
             "rating": "4.8",
-            "titleLess": "Education Program Title",
+            "titleLess": "Science Course",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$75.00"
+        },
+        {
+            "id": 4,
+            "cardImg": "https://www.dundryprimary.co.uk/wp-content/uploads/2021/11/istockphoto-1092170968-612x612-1.jpg",
+            "lessonNumber": "77 lesson",
+            "rating": "4.8",
+            "titleLess": "History Course",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$75.00"
+        },
+        {
+            "id": 5,
+            "cardImg": "https://img.freepik.com/premium-vector/enjoying-listening-music-concept_198530-1387.jpg",
+            "lessonNumber": "77 lesson",
+            "rating": "4.8",
+            "titleLess": "Music Course",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$75.00"
+        },
+        {
+            "id": 6,
+            "cardImg": "https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png",
+            "lessonNumber": "77 lesson",
+            "rating": "4.8",
+            "titleLess": "Programming Course",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$75.00"
+        },
+        {
+            "id": 7,
+            "cardImg": "https://usa.bootcampcdn.com/wp-content/uploads/sites/119/2020/11/DM_blog_post_image_03.jpg",
+            "lessonNumber": "77 lesson",
+            "rating": "4.8",
+            "titleLess": "Marketing Course",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$75.00"
+        },
+        {
+            "id": 8,
+            "cardImg": "https://www.scalevp.com/sites/default/files/designbig.jpg",
+            "lessonNumber": "77 lesson",
+            "rating": "4.8",
+            "titleLess": "Design Course",
+            "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
+            "priceLess": "$75.00"
+        },
+        {
+            "id": 9,
+            "cardImg": "https://www.rwjbh.org/images/fruits-veggies-blog-img-540x320px.jpg",
+            "lessonNumber": "77 lesson",
+            "rating": "4.8",
+            "titleLess": "Health Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00"
         }
+    ],
+    "track": [
+        {
+            "id": 1,
+            "name": "math"
+        },
+        {
+            "id": 2,
+            "name": "english"
+        },
+        {
+            "id": 3,
+            "name": "history"
+        },
+        {
+            "id": 4,
+            "name": "science"
+        },
+        {
+            "id": 5,
+            "name": "music"
+        },
+        {
+            "id": 6,
+            "name": "design"
+        },
+        {
+            "id": 7,
+            "name": "programing"
+        }
+    ],
+    "teachers": [
+        {
+            "id": 1,
+            "image": "https://thumbs.dreamstime.com/b/teacher-9707054.jpg",
+            "name": "John Deu",
+            "work": "Design Teacher",
+            "trackName": "design",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 2,
+            "image": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg",
+            "name": "Ahmad Deu",
+            "work": "Design Teacher",
+            "trackName": "design",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 3,
+            "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg",
+            "name": "Kety Deu",
+            "work": "Mathematics Teacher",
+            "trackName": "math",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 4,
+            "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg",
+            "name": "Selena Deu",
+            "work": "Mathematics Teacher",
+            "trackName": "math",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 5,
+            "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg",
+            "name": "Maram Deu",
+            "work": "programing Teacher",
+            "trackName": "programing",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 6,
+            "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg",
+            "name": "Ali Deu",
+            "work": "Muic Teacher",
+            "trackName": "music",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 7,
+            "image": "https://media.sciencephoto.com/f0/28/38/95/f0283895-800px-wm.jpg",
+            "name": "Omar Deu",
+            "work": "English Teacher",
+            "trackName": "english",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 8,
+            "image": "https://static.jobscan.co/blog/uploads/jobs-for-former-teachers.png",
+            "name": "Samantha Deu",
+            "work": "History Teacher",
+            "trackName": "history",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 9,
+            "image": "https://st3.depositphotos.com/16122460/18951/i/450/depositphotos_189510708-stock-photo-male-teacher-working-with-laptop.jpg",
+            "name": "Mohammad Deu",
+            "work": "Science Teacher",
+            "trackName": "science",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        },
+        {
+            "id": 10,
+            "image": "https://st.depositphotos.com/2309453/3930/i/450/depositphotos_39309469-stock-photo-beautiful-african-american-student-or.jpg",
+            "name": "Joel Deu",
+            "work": "Science Teacher",
+            "trackName": "science",
+            "describtion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora eum molestias officiis accusantium odit iure totam.",
+            "facebookUrl": "https://www.facebook.com/maram.wannous",
+            "instgramUrl": "https://instagram.com/maram.wannous",
+            "LinkedinUrl": "https://www.linkedin.com/in/maram-wannous-3bb5ba191"
+        }
+    ],
+
+    "students": [
+        {
+            "id": 1,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "William Deu",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 2,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Brad Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 3,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "John Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 4,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Ahmad Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 5,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Ali Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 6,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Mohammad Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 7,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Omar Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 8,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Abeer Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 9,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Maram Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 10,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Sarah Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 11,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Ahmad Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 12,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Hasan Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 13,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Jad Brow",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 14,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Sam Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 15,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Osama Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 16,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Khaled Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 17,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Lama Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        },
+        {
+            "id": 18,
+            "image": "https://eitrawmaterials.eu/wp-content/uploads/2016/09/person-icon.png",
+            "name": "Selena Due",
+            "age": "15",
+            "email": "name@gmail.com"
+        }
+
     ]
 }
