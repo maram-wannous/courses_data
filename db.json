@@ -9,9 +9,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$87.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 2,
@@ -22,9 +22,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$90.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 3,
@@ -35,9 +35,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 4,
@@ -48,9 +48,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 5,
@@ -61,9 +61,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 6,
@@ -74,9 +74,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 7,
@@ -87,9 +87,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 8,
@@ -100,9 +100,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         },
         {
             "id": 9,
@@ -113,9 +113,9 @@
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
             "button": "Learn more",
-            "start-at": "start at: 10/7/2023",
-            "end-at": "end at: 30/10/2023",
-            "author-name": "Authore name: John due"
+            "start_at": "start at: 10/7/2023",
+            "end_at": "end at: 30/10/2023",
+            "author_name": "Authore name: John due"
         }
     ],
     "track": [
