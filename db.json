@@ -8,7 +8,10 @@
             "titleLess": "Math Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$87.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 2,
@@ -18,7 +21,10 @@
             "titleLess": "English Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$90.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 3,
@@ -28,7 +34,10 @@
             "titleLess": "Science Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 4,
@@ -38,7 +47,10 @@
             "titleLess": "History Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 5,
@@ -48,7 +60,10 @@
             "titleLess": "Music Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 6,
@@ -58,7 +73,10 @@
             "titleLess": "Programming Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 7,
@@ -68,7 +86,10 @@
             "titleLess": "Marketing Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 8,
@@ -78,7 +99,10 @@
             "titleLess": "Design Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         },
         {
             "id": 9,
@@ -88,7 +112,10 @@
             "titleLess": "Health Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
             "priceLess": "$75.00",
-            "button": "Learn more"
+            "button": "Learn more",
+            "start-at": "start at: 10/7/2023",
+            "end-at": "end at: 30/10/2023",
+            "author-name": "Authore name: John due"
         }
     ],
     "track": [
