@@ -17,7 +17,8 @@
             "rating": "4.8",
             "titleLess": "English Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$90.00"
+            "priceLess": "$90.00",
+            "button": "Learn more"
         },
         {
             "id": 3,
@@ -26,7 +27,8 @@
             "rating": "4.8",
             "titleLess": "Science Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$75.00"
+            "priceLess": "$75.00",
+            "button": "Learn more"
         },
         {
             "id": 4,
@@ -35,7 +37,8 @@
             "rating": "4.8",
             "titleLess": "History Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$75.00"
+            "priceLess": "$75.00",
+            "button": "Learn more"
         },
         {
             "id": 5,
@@ -44,7 +47,8 @@
             "rating": "4.8",
             "titleLess": "Music Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$75.00"
+            "priceLess": "$75.00",
+            "button": "Learn more"
         },
         {
             "id": 6,
@@ -53,7 +57,8 @@
             "rating": "4.8",
             "titleLess": "Programming Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$75.00"
+            "priceLess": "$75.00",
+            "button": "Learn more"
         },
         {
             "id": 7,
@@ -62,7 +67,8 @@
             "rating": "4.8",
             "titleLess": "Marketing Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$75.00"
+            "priceLess": "$75.00",
+            "button": "Learn more"
         },
         {
             "id": 8,
@@ -71,7 +77,8 @@
             "rating": "4.8",
             "titleLess": "Design Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$75.00"
+            "priceLess": "$75.00",
+            "button": "Learn more"
         },
         {
             "id": 9,
@@ -80,7 +87,8 @@
             "rating": "4.8",
             "titleLess": "Health Course",
             "describtion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quia.",
-            "priceLess": "$75.00"
+            "priceLess": "$75.00",
+            "button": "Learn more"
         }
     ],
     "track": [
