@@ -1,4 +1,10 @@
 {
+    "user": [
+        {
+            "naim": "maram",
+            "password": "123"
+        }
+    ],
     "courses": [
         {
             "id": 1,
