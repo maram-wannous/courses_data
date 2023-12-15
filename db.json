@@ -50,23 +50,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 3,
-                    "name": "riham",
-                    "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg"
-                },
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                },
-                {
-                    "id": 5,
-                    "name": "nermen",
-                    "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg"
-                }
-            ]
+            "team_members": [1, 2, 2]
         },
         {
             "id": 2,
@@ -76,23 +60,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 6,
-                    "name": "maram",
-                    "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg"
-                },
-                {
-                    "id": 7,
-                    "name": "aola",
-                    "image": "https://static.jobscan.co/blog/uploads/jobs-for-former-teachers.png"
-                },
-                {
-                    "id": 8,
-                    "name": "sarah",
-                    "image": "https://st.depositphotos.com/2309453/3930/i/450/depositphotos_39309469-stock-photo-beautiful-african-american-student-or.jpg"
-                }
-            ]
+            "team_members": [4, 5, 3]
         },
         {
             "id": 3,
@@ -102,23 +70,7 @@
             "end_data": "2023-11-11",
             "status": "OffTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 2,
-                    "name": "faisal",
-                    "image": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg"
-                },
-                {
-                    "id": 3,
-                    "name": "riham",
-                    "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg"
-                },
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                }
-            ]
+            "team_members": [3, 5, 7]
         },
         {
             "id": 4,
@@ -128,23 +80,7 @@
             "end_data": "2023-11-11",
             "status": "Completed",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 2,
-                    "name": "faisal",
-                    "image": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg"
-                },
-                {
-                    "id": 3,
-                    "name": "riham",
-                    "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg"
-                },
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                }
-            ]
+            "team_members": [8,2, 4]
         },
         {
             "id": 5,
@@ -154,23 +90,7 @@
             "end_data": "2023-11-11",
             "status": "Pending",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 1,
-                    "name": "mohammad",
-                    "image": "https://thumbs.dreamstime.com/b/teacher-9707054.jpg"
-                },
-                {
-                    "id": 2,
-                    "name": "faisal",
-                    "image": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg"
-                },
-                {
-                    "id": 3,
-                    "name": "riham",
-                    "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg"
-                }
-            ]
+            "team_members": [2, 3, 4]
         },
         {
             "id": 6,
@@ -180,23 +100,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                },
-                {
-                    "id": 5,
-                    "name": "nermen",
-                    "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg"
-                },
-                {
-                    "id": 6,
-                    "name": "maram",
-                    "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg"
-                }
-            ]
+            "team_members": [3, 4, 5]
         },
         {
             "id": 7,
@@ -206,23 +110,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 5,
-                    "name": "nermen",
-                    "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg"
-                },
-                {
-                    "id": 6,
-                    "name": "maram",
-                    "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg"
-                },
-                {
-                    "id": 7,
-                    "name": "aola",
-                    "image": "https://static.jobscan.co/blog/uploads/jobs-for-former-teachers.png"
-                }
-            ]
+            "team_members": [4, 5, 6]
         },
         {
             "id": 8,
@@ -232,23 +120,7 @@
             "end_data": "2023-11-11",
             "status": "Completed",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                },
-                {
-                    "id": 5,
-                    "name": "nermen",
-                    "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg"
-                },
-                {
-                    "id": 6,
-                    "name": "maram",
-                    "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg"
-                }
-            ]
+            "team_members": [5, 6, 7]
         },
         {
             "id": 9,
@@ -258,23 +130,7 @@
             "end_data": "2023-11-11",
             "status": "OffTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                },
-                {
-                    "id": 5,
-                    "name": "nermen",
-                    "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg"
-                },
-                {
-                    "id": 6,
-                    "name": "maram",
-                    "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg"
-                }
-            ]
+            "team_members": [6, 7, 8]
         },
         {
             "id": 10,
@@ -284,9 +140,7 @@
             "end_data": "2023-11-11",
             "status": "OffTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-
-            ]
+            "team_members": [4,5,6]
         },
         {
             "id": 11,
@@ -296,23 +150,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                },
-                {
-                    "id": 5,
-                    "name": "nermen",
-                    "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg"
-                },
-                {
-                    "id": 6,
-                    "name": "maram",
-                    "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg"
-                }
-            ]
+            "team_members": [2, 3, 4]
         },
         {
             "id": 12,
@@ -322,23 +160,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 4,
-                    "name": "serina",
-                    "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg"
-                },
-                {
-                    "id": 5,
-                    "name": "nermen",
-                    "image": "https://t3.ftcdn.net/jpg/02/65/18/30/360_F_265183061_NkulfPZgRxbNg3rvYSNGGwi0iD7qbmOp.jpg"
-                },
-                {
-                    "id": 6,
-                    "name": "maram",
-                    "image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2022/may/teaching-children.jpg"
-                }
-            ]
+            "team_members": [4, 5, 6]
         },
         {
             "id": 13,
@@ -348,23 +170,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 1,
-                    "name": "mohammad",
-                    "image": "https://thumbs.dreamstime.com/b/teacher-9707054.jpg"
-                },
-                {
-                    "id": 2,
-                    "name": "faisal",
-                    "image": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg"
-                },
-                {
-                    "id": 3,
-                    "name": "riham",
-                    "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg"
-                }
-            ]
+            "team_members": [3, 5, 6]
             
         },
         {
@@ -375,23 +181,7 @@
             "end_data": "2023-11-11",
             "status": "OnTrack",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
-            "team_members": [
-                {
-                    "id": 1,
-                    "name": "mohammad",
-                    "image": "https://thumbs.dreamstime.com/b/teacher-9707054.jpg"
-                },
-                {
-                    "id": 2,
-                    "name": "faisal",
-                    "image": "https://www.teachertrainingasia.com/images/C-pre-school-AM.jpg"
-                },
-                {
-                    "id": 3,
-                    "name": "riham",
-                    "image": "https://www.topeducationdegrees.org/wp-content/uploads/2016/01/teacher-3-300x177.jpg"
-                }
-            ]
+            "team_members": [2, 5, 7]
         }
     ],
     "tasks": [
